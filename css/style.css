@@ -7,3 +7,19 @@
     font-size: 1.2rem;
     color: green;
 }
+
+.box {
+    display: flex;
+}
+
+.lista {
+    list-style-type: none;
+}
+
+.lista-item {
+    color: yellow;
+}
+
+.link {
+    padding: 1rem 2rem;
+}
