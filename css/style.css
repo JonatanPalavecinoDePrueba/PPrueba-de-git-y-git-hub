@@ -23,3 +23,19 @@
 .link {
     padding: 1rem 2rem;
 }
+
+.footer {
+    width: 100%;
+}
+
+.footer-box {
+    display: flex;
+}
+
+.footer-lista {
+    list-style-type: none;
+}
+
+.footer-link {
+    cursor: pointer;
+}
