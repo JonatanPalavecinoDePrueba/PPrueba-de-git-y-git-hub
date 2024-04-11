@@ -41,6 +41,12 @@ article {
     list-style-type: none;
 }
 
+.footer-link {
+    cursor: pointer;
+    background-color: aliceblue;
+    color: aqua;
+}
+
 h3 {
     color: black;
 }
