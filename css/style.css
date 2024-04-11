@@ -43,4 +43,9 @@ article {
 
 .footer-link {
     cursor: pointer;
+    background-color: aliceblue;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
 }
