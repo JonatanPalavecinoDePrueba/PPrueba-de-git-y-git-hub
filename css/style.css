@@ -47,6 +47,10 @@ article {
     color: aqua;
 }
 
+h3 {
+    color: black;
+}
+
 p {
     font-family: 'Courier New', Courier, monospace;
 }
