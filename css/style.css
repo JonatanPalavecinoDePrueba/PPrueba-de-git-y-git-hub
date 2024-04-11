@@ -7,3 +7,19 @@
     font-size: 1.2rem;
     color: green;
 }
+
+.footer {
+    width: 100%;
+}
+
+.footer-box {
+    display: flex;
+}
+
+.footer-lista {
+    list-style-type: none;
+}
+
+.footer-link {
+    cursor: pointer;
+}
